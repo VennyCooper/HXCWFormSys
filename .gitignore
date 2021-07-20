@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs/HXCWFormSys
+/HXCWFormSys/bin/Debug/netcoreapp3.1
+/HXCWFormSys/obj
+/HXCWFormSys.DataAccess/bin/Debug/netcoreapp3.1
+/HXCWFormSys.DataAccess/obj
+/HXCWFormSys.Model/bin/Debug/netcoreapp3.1
+/HXCWFormSys.Model/obj
+/HXCWFormSys.Test/obj
+/HXCWFormSys.ViewModel/bin/Debug/netcoreapp3.1
+/HXCWFormSys.ViewModel/obj
